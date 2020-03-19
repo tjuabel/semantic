@@ -144,3 +144,7 @@ details on how to participate in our community.
 ## Licensing
 
 Semantic is licensed under the [MIT license](LICENSE).
+
+
+# Add some reference here
+- This project is reference from Zhihu (如何评价 GitHub 开源的程序分析库 semantic)https://www.zhihu.com/question/327367431]
